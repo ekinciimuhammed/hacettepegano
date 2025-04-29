@@ -16,15 +16,7 @@ Ayrıca kullanıcılar harf notlarını değiştirerek yeni GANO’larını gör
 ✅ 📄 PDF Raporu oluşturma – masaüstüne detaylı çıktı  
 ✅ tkinter ile sade ve kullanıcı dostu arayüz
 
----
 
-## 🖼️ Ekran Görüntüsü
-
-> *(Eğer bir `screenshots/gui.png` görseli yüklersen burada gösterilir)*
-
-![GANO Hesaplayıcı](screenshots/gui.png)
-
----
 
 ## 🧩 Kullanılan Kütüphaneler
 
